@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.calculator-form {
+    border: 1px solid black;
+    height: 393px;
+    width: 307px;
+    background-color: #ebeaea;
+    margin-left: 16px;
+}
+
+
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 0.5rem;
+    border: 1px solid black;
+
+}
+
+table th {
+    padding: 0.5rem;
+    border: 1px solid black;
+}
+
+.loan_amount,
+.roi,
+.duration {
+    padding: 5px;
+}
+
+.n1 {
+    position: relative;
+    left: 190px;
+}
+
+.n2 {
+    position: relative;
+    left: 160px;
+
+}
+
+.n3 {
+    position: relative;
+    left: 4px;
+}
+
+.l1 {
+    position: relative;
+    left: 90px;
+}
+
+.l2 {
+    position: relative;
+    left: 102px;
+}
+
+.l3 {
+    position: relative;
+    left: 19px;
+}
+
+.summary {
+    border: 1px solid black;
+    margin-left: 15px;
+    padding: 15px;
+    width: 497px;
+    height: 268px;
+}
+
+/* .emi{
+    position: relative;
+    right: -216px;
+    bottom: 686px;
+    
+    
+} */
+
+.emi{
+    position: absolute;
+    right: 100px;
+    top: 75px;
+}
