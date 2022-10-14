@@ -1,0 +1,22 @@
+
+*{
+    box-sizing: border-box;
+}
+.main {
+    border: 1px solid black;
+    height: 380px;
+    width: 350px;
+    background-color: #d3e6ef;
+    border-radius: 8px;
+}
+
+.fname1,.femail,.fpassword{
+    padding: 5px;
+}
+
+input:focus{
+    
+    /* background-color:  rgb(22, 129, 218); */
+    border-radius: 8px;
+    background-color: rgba(207, 177, 235, 0.5);
+}

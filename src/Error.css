@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+.cc1 {
+    color: rgb(140, 0, 255);
+    opacity: 1;
+    /* box-sizing:content-box; */
+    /* position: relative;
+    left: 20px; */
+    
+    margin-left: 20px;
+
+}
+
+.cc2 {
+    /* position:relative;
+    left: 20px; */
+    margin-left: 20px;
+    background-color: chocolate;
+    
+}
+
+.cc2:hover{
+    background-color: darkcyan;
+    font-weight: bold;
+    border-radius: 5px;
+}
