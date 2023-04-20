@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.c1{
+    display: none;
+}
+.pass{
+    border: 1px solid black;
+    width: 521px;
+    height: 220px;
+    margin: 20px;
+    padding-left: 16px;
+    border-radius: 8px;
+}
